@@ -30,6 +30,7 @@ If applicable, add screenshots to help explain your problem.
 -   Browser: [e.g. chrome, safari]
 -   Application Version: [e.g. 22]
 -   Core library Version:
+-   Core UI library Version:
 -   Edge runtime Version:
 
 **Smartphone (please complete the following information):**
